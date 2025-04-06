@@ -1,11 +1,72 @@
 {
-  "timestamp": "2025-04-06T10:16:05.491Z",
+  "timestamp": "2025-04-06T10:16:38.829Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 10,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Header",
+      "type": "header",
+      "status": "pending",
+      "description": "A responsive header with logo and navigation menu that supports RTL Hebrew text"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with headline, description and call to action button"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section describing the salon's experience and expertise"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section showcasing the salon's services with descriptions and images"
+    },
+    {
+      "name": "TeamSection",
+      "type": "team",
+      "status": "pending",
+      "description": "Section showcasing the salon's professional team members"
+    },
+    {
+      "name": "GallerySection",
+      "type": "gallery",
+      "status": "pending",
+      "description": "Image gallery showcasing the salon's work and environment"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact form and information section"
+    },
+    {
+      "name": "LocationSection",
+      "type": "map",
+      "status": "pending",
+      "description": "Map showing the salon's location"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Footer with copyright, social media links and secondary navigation"
+    },
+    {
+      "name": "ScrollToTop",
+      "type": "utility",
+      "status": "pending",
+      "description": "A button that appears when scrolling down to allow users to quickly return to the top of the page"
+    }
+  ],
   "repoName": "webis-site-aassa-1743934528686"
 }
