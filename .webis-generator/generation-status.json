@@ -1,8 +1,11 @@
 {
-  "projectName": "aassa-4528",
-  "businessName": "aassa",
-  "created": "2025-04-06T10:15:28.723Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-06T10:16:05.491Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-aassa-1743934528686"
 }
