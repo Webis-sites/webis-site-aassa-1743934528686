@@ -1,0 +1,6 @@
+# robots.txt for aassa
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://aassa.com/sitemap.xml
